@@ -1,4 +1,5 @@
 * {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
@@ -9,5 +10,5 @@ body {
 
 header {
     background-color: #ff9a6c;
-
+    
 }
